@@ -1,0 +1,27 @@
+dependencies: \
+  /Users/congnt/Desktop/HelloWord/frameworks/cocos2d-x/external/bullet/BulletCollision/CollisionShapes/btMultimaterialTriangleMeshShape.cpp \
+  /Users/congnt/Desktop/HelloWord/frameworks/cocos2d-x/build/../external/bullet/BulletCollision//CollisionShapes/btMultimaterialTriangleMeshShape.h \
+  /Users/congnt/Desktop/HelloWord/frameworks/cocos2d-x/external/bullet/BulletCollision/CollisionShapes/btBvhTriangleMeshShape.h \
+  /Users/congnt/Desktop/HelloWord/frameworks/cocos2d-x/external/bullet/BulletCollision/CollisionShapes/btTriangleMeshShape.h \
+  /Users/congnt/Desktop/HelloWord/frameworks/cocos2d-x/external/bullet/BulletCollision/CollisionShapes/btConcaveShape.h \
+  /Users/congnt/Desktop/HelloWord/frameworks/cocos2d-x/external/bullet/BulletCollision/CollisionShapes/btCollisionShape.h \
+  /Users/congnt/Desktop/HelloWord/frameworks/cocos2d-x/build/../external/bullet/LinearMath/btTransform.h \
+  /Users/congnt/Desktop/HelloWord/frameworks/cocos2d-x/build/../external/bullet/LinearMath/btMatrix3x3.h \
+  /Users/congnt/Desktop/HelloWord/frameworks/cocos2d-x/build/../external/bullet/LinearMath/btVector3.h \
+  /Users/congnt/Desktop/HelloWord/frameworks/cocos2d-x/build/../external/bullet/LinearMath/btScalar.h \
+  /Users/congnt/Desktop/HelloWord/frameworks/cocos2d-x/build/../external/bullet/LinearMath/btMinMax.h \
+  /Users/congnt/Desktop/HelloWord/frameworks/cocos2d-x/build/../external/bullet/LinearMath/btAlignedAllocator.h \
+  /Users/congnt/Desktop/HelloWord/frameworks/cocos2d-x/build/../external/bullet/LinearMath/btQuaternion.h \
+  /Users/congnt/Desktop/HelloWord/frameworks/cocos2d-x/build/../external/bullet/LinearMath/btQuadWord.h \
+  /Users/congnt/Desktop/HelloWord/frameworks/cocos2d-x/build/../external/bullet/BulletCollision//BroadphaseCollision/btBroadphaseProxy.h \
+  /Users/congnt/Desktop/HelloWord/frameworks/cocos2d-x/external/bullet/BulletCollision/CollisionShapes/btTriangleCallback.h \
+  /Users/congnt/Desktop/HelloWord/frameworks/cocos2d-x/external/bullet/BulletCollision/CollisionShapes/btStridingMeshInterface.h \
+  /Users/congnt/Desktop/HelloWord/frameworks/cocos2d-x/external/bullet/BulletCollision/CollisionShapes/btOptimizedBvh.h \
+  /Users/congnt/Desktop/HelloWord/frameworks/cocos2d-x/build/../external/bullet/BulletCollision//BroadphaseCollision/btQuantizedBvh.h \
+  /Users/congnt/Desktop/HelloWord/frameworks/cocos2d-x/build/../external/bullet/LinearMath/btAlignedObjectArray.h \
+  /Users/congnt/Desktop/HelloWord/frameworks/cocos2d-x/external/bullet/BulletCollision/CollisionShapes/btTriangleInfoMap.h \
+  /Users/congnt/Desktop/HelloWord/frameworks/cocos2d-x/build/../external/bullet/LinearMath/btHashMap.h \
+  /Users/congnt/Desktop/HelloWord/frameworks/cocos2d-x/build/../external/bullet/LinearMath/btSerializer.h \
+  /Users/congnt/Desktop/HelloWord/frameworks/cocos2d-x/external/bullet/BulletCollision/CollisionShapes/btMaterial.h \
+  /Users/congnt/Desktop/HelloWord/frameworks/cocos2d-x/build/../external/bullet/BulletCollision//CollisionShapes/btTriangleIndexVertexMaterialArray.h \
+  /Users/congnt/Desktop/HelloWord/frameworks/cocos2d-x/external/bullet/BulletCollision/CollisionShapes/btTriangleIndexVertexArray.h

@@ -1,0 +1,36 @@
+dependencies: \
+  /Users/congnt/Desktop/HelloWord/frameworks/cocos2d-x/cocos/navmesh/CCNavMeshUtils.cpp \
+  /Users/congnt/Desktop/HelloWord/frameworks/cocos2d-x/build/../cocos/navmesh/CCNavMeshUtils.h \
+  /Users/congnt/Desktop/HelloWord/frameworks/cocos2d-x/build/../cocos/base/ccConfig.h \
+  /Users/congnt/Desktop/HelloWord/frameworks/cocos2d-x/build/../cocos/platform/CCPlatformConfig.h \
+  /Users/congnt/Desktop/HelloWord/frameworks/cocos2d-x/build/../cocos/platform/CCPlatformMacros.h \
+  /Users/congnt/Desktop/HelloWord/frameworks/cocos2d-x/build/../cocos/platform/CCPlatformDefine.h \
+  /Users/congnt/Desktop/HelloWord/frameworks/cocos2d-x/build/../cocos/platform/ios/CCPlatformDefine-ios.h \
+  /Users/congnt/Desktop/HelloWord/frameworks/cocos2d-x/build/../cocos/math/CCMath.h \
+  /Users/congnt/Desktop/HelloWord/frameworks/cocos2d-x/build/../cocos/math/Vec2.h \
+  /Users/congnt/Desktop/HelloWord/frameworks/cocos2d-x/build/../cocos/math/CCMathBase.h \
+  /Users/congnt/Desktop/HelloWord/frameworks/cocos2d-x/build/../cocos/math/Vec2.inl \
+  /Users/congnt/Desktop/HelloWord/frameworks/cocos2d-x/build/../cocos/math/Vec3.h \
+  /Users/congnt/Desktop/HelloWord/frameworks/cocos2d-x/build/../cocos/math/Vec3.inl \
+  /Users/congnt/Desktop/HelloWord/frameworks/cocos2d-x/build/../cocos/math/Mat4.h \
+  /Users/congnt/Desktop/HelloWord/frameworks/cocos2d-x/build/../cocos/base/ccMacros.h \
+  /Users/congnt/Desktop/HelloWord/frameworks/cocos2d-x/build/../cocos/base/CCConsole.h \
+  /Users/congnt/Desktop/HelloWord/frameworks/cocos2d-x/build/../cocos/base/CCRef.h \
+  /Users/congnt/Desktop/HelloWord/frameworks/cocos2d-x/build/../cocos/platform/CCStdC.h \
+  /Users/congnt/Desktop/HelloWord/frameworks/cocos2d-x/build/../cocos/platform/ios/CCStdC-ios.h \
+  /Users/congnt/Desktop/HelloWord/frameworks/cocos2d-x/build/../cocos/base/ccRandom.h \
+  /Users/congnt/Desktop/HelloWord/frameworks/cocos2d-x/build/../cocos/math/Vec4.h \
+  /Users/congnt/Desktop/HelloWord/frameworks/cocos2d-x/build/../cocos/math/Vec4.inl \
+  /Users/congnt/Desktop/HelloWord/frameworks/cocos2d-x/build/../cocos/math/Mat4.inl \
+  /Users/congnt/Desktop/HelloWord/frameworks/cocos2d-x/build/../cocos/math/Quaternion.h \
+  /Users/congnt/Desktop/HelloWord/frameworks/cocos2d-x/build/../cocos/math/Quaternion.inl \
+  /Users/congnt/Desktop/HelloWord/frameworks/cocos2d-x/build/../external/recast/Detour/DetourCommon.h \
+  /Users/congnt/Desktop/HelloWord/frameworks/cocos2d-x/build/../external/recast/Detour/DetourMath.h \
+  /Users/congnt/Desktop/HelloWord/frameworks/cocos2d-x/build/../external/recast/Detour/DetourNavMesh.h \
+  /Users/congnt/Desktop/HelloWord/frameworks/cocos2d-x/build/../external/recast/Detour/DetourAlloc.h \
+  /Users/congnt/Desktop/HelloWord/frameworks/cocos2d-x/build/../external/recast/Detour/DetourStatus.h \
+  /Users/congnt/Desktop/HelloWord/frameworks/cocos2d-x/build/../external/recast/Detour/DetourNavMeshQuery.h \
+  /Users/congnt/Desktop/HelloWord/frameworks/cocos2d-x/build/../external/recast/DetourTileCache/DetourTileCache.h \
+  /Users/congnt/Desktop/HelloWord/frameworks/cocos2d-x/build/../external/recast/DetourTileCache/DetourTileCacheBuilder.h \
+  /Users/congnt/Desktop/HelloWord/frameworks/cocos2d-x/build/../external/recast/Detour/DetourNavMeshBuilder.h \
+  /Users/congnt/Desktop/HelloWord/frameworks/cocos2d-x/build/../external/recast/fastlz/fastlz.h

@@ -1,0 +1,27 @@
+dependencies: \
+  /Users/congnt/Desktop/HelloWord/frameworks/cocos2d-x/external/bullet/BulletMultiThreaded/SpuNarrowPhaseCollisionTask/SpuContactResult.cpp \
+  /Users/congnt/Desktop/HelloWord/frameworks/cocos2d-x/external/bullet/BulletMultiThreaded/SpuNarrowPhaseCollisionTask/SpuContactResult.h \
+  /Users/congnt/Desktop/HelloWord/frameworks/cocos2d-x/external/bullet/BulletMultiThreaded/SpuNarrowPhaseCollisionTask/../SpuDoubleBuffer.h \
+  /Users/congnt/Desktop/HelloWord/frameworks/cocos2d-x/external/bullet/BulletMultiThreaded/SpuNarrowPhaseCollisionTask/../SpuFakeDma.h \
+  /Users/congnt/Desktop/HelloWord/frameworks/cocos2d-x/external/bullet/BulletMultiThreaded/SpuNarrowPhaseCollisionTask/../PlatformDefinitions.h \
+  /Users/congnt/Desktop/HelloWord/frameworks/cocos2d-x/build/../external/bullet/LinearMath/btScalar.h \
+  /Users/congnt/Desktop/HelloWord/frameworks/cocos2d-x/build/../external/bullet/LinearMath/btMinMax.h \
+  /Users/congnt/Desktop/HelloWord/frameworks/cocos2d-x/build/../external/bullet/vectormath/vmInclude.h \
+  /Users/congnt/Desktop/HelloWord/frameworks/cocos2d-x/build/../external/bullet/vectormath/sse/vectormath_aos.h \
+  /Users/congnt/Desktop/HelloWord/frameworks/cocos2d-x/build/../external/bullet/vectormath/sse/vecidx_aos.h \
+  /Users/congnt/Desktop/HelloWord/frameworks/cocos2d-x/build/../external/bullet/vectormath/sse/floatInVec.h \
+  /Users/congnt/Desktop/HelloWord/frameworks/cocos2d-x/build/../external/bullet/vectormath/sse/boolInVec.h \
+  /Users/congnt/Desktop/HelloWord/frameworks/cocos2d-x/build/../external/bullet/vectormath/sse/vec_aos.h \
+  /Users/congnt/Desktop/HelloWord/frameworks/cocos2d-x/build/../external/bullet/vectormath/sse/quat_aos.h \
+  /Users/congnt/Desktop/HelloWord/frameworks/cocos2d-x/build/../external/bullet/vectormath/sse/mat_aos.h \
+  /Users/congnt/Desktop/HelloWord/frameworks/cocos2d-x/external/bullet/BulletMultiThreaded/SpuNarrowPhaseCollisionTask/../PpuAddressSpace.h \
+  /Users/congnt/Desktop/HelloWord/frameworks/cocos2d-x/build/../external/bullet/LinearMath/btTransform.h \
+  /Users/congnt/Desktop/HelloWord/frameworks/cocos2d-x/build/../external/bullet/LinearMath/btMatrix3x3.h \
+  /Users/congnt/Desktop/HelloWord/frameworks/cocos2d-x/build/../external/bullet/LinearMath/btVector3.h \
+  /Users/congnt/Desktop/HelloWord/frameworks/cocos2d-x/build/../external/bullet/LinearMath/btAlignedAllocator.h \
+  /Users/congnt/Desktop/HelloWord/frameworks/cocos2d-x/build/../external/bullet/LinearMath/btQuaternion.h \
+  /Users/congnt/Desktop/HelloWord/frameworks/cocos2d-x/build/../external/bullet/LinearMath/btQuadWord.h \
+  /Users/congnt/Desktop/HelloWord/frameworks/cocos2d-x/build/../external/bullet/BulletCollision//NarrowPhaseCollision/btPersistentManifold.h \
+  /Users/congnt/Desktop/HelloWord/frameworks/cocos2d-x/build/../external/bullet/BulletCollision//NarrowPhaseCollision/btManifoldPoint.h \
+  /Users/congnt/Desktop/HelloWord/frameworks/cocos2d-x/build/../external/bullet/LinearMath/btTransformUtil.h \
+  /Users/congnt/Desktop/HelloWord/frameworks/cocos2d-x/build/../external/bullet/BulletCollision//NarrowPhaseCollision/btDiscreteCollisionDetectorInterface.h

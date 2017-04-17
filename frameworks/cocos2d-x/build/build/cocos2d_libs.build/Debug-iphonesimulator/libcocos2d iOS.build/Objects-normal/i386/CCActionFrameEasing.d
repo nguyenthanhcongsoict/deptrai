@@ -1,0 +1,33 @@
+dependencies: \
+  /Users/congnt/Desktop/HelloWord/frameworks/cocos2d-x/cocos/editor-support/cocostudio/CCActionFrameEasing.cpp \
+  /Users/congnt/Desktop/HelloWord/frameworks/cocos2d-x/build/../cocos/editor-support/cocostudio/CCActionFrameEasing.h \
+  /Users/congnt/Desktop/HelloWord/frameworks/cocos2d-x/build/../cocos/base/CCRef.h \
+  /Users/congnt/Desktop/HelloWord/frameworks/cocos2d-x/build/../cocos/platform/CCPlatformMacros.h \
+  /Users/congnt/Desktop/HelloWord/frameworks/cocos2d-x/build/../cocos/base/ccConfig.h \
+  /Users/congnt/Desktop/HelloWord/frameworks/cocos2d-x/build/../cocos/platform/CCPlatformConfig.h \
+  /Users/congnt/Desktop/HelloWord/frameworks/cocos2d-x/build/../cocos/platform/CCPlatformDefine.h \
+  /Users/congnt/Desktop/HelloWord/frameworks/cocos2d-x/build/../cocos/platform/ios/CCPlatformDefine-ios.h \
+  /Users/congnt/Desktop/HelloWord/frameworks/cocos2d-x/build/../cocos/editor-support/cocostudio/CocosStudioExport.h \
+  /Users/congnt/Desktop/HelloWord/frameworks/cocos2d-x/build/../cocos/editor-support/cocostudio/DictionaryHelper.h \
+  /Users/congnt/Desktop/HelloWord/frameworks/cocos2d-x/build/../external/json/document-wrapper.h \
+  /Users/congnt/Desktop/HelloWord/frameworks/cocos2d-x/build/../external/json/rapidjson.h \
+  /Users/congnt/Desktop/HelloWord/frameworks/cocos2d-x/build/../external/json/document.h \
+  /Users/congnt/Desktop/HelloWord/frameworks/cocos2d-x/build/../external/json/reader.h \
+  /Users/congnt/Desktop/HelloWord/frameworks/cocos2d-x/build/../external/json/allocators.h \
+  /Users/congnt/Desktop/HelloWord/frameworks/cocos2d-x/build/../external/json/stream.h \
+  /Users/congnt/Desktop/HelloWord/frameworks/cocos2d-x/build/../external/json/encodings.h \
+  /Users/congnt/Desktop/HelloWord/frameworks/cocos2d-x/build/../external/json/encodedstream.h \
+  /Users/congnt/Desktop/HelloWord/frameworks/cocos2d-x/build/../external/json/memorystream.h \
+  /Users/congnt/Desktop/HelloWord/frameworks/cocos2d-x/build/../external/json/internal/meta.h \
+  /Users/congnt/Desktop/HelloWord/frameworks/cocos2d-x/build/../external/json/internal/stack.h \
+  /Users/congnt/Desktop/HelloWord/frameworks/cocos2d-x/build/../external/json/internal/swap.h \
+  /Users/congnt/Desktop/HelloWord/frameworks/cocos2d-x/build/../external/json/internal/strtod.h \
+  /Users/congnt/Desktop/HelloWord/frameworks/cocos2d-x/build/../external/json/internal/ieee754.h \
+  /Users/congnt/Desktop/HelloWord/frameworks/cocos2d-x/build/../external/json/internal/biginteger.h \
+  /Users/congnt/Desktop/HelloWord/frameworks/cocos2d-x/build/../external/json/internal/diyfp.h \
+  /Users/congnt/Desktop/HelloWord/frameworks/cocos2d-x/build/../external/json/internal/pow10.h \
+  /Users/congnt/Desktop/HelloWord/frameworks/cocos2d-x/build/../external/json/error/error.h \
+  /Users/congnt/Desktop/HelloWord/frameworks/cocos2d-x/build/../external/json/internal/strfunc.h \
+  /Users/congnt/Desktop/HelloWord/frameworks/cocos2d-x/build/../external/json/internal/../stream.h \
+  /Users/congnt/Desktop/HelloWord/frameworks/cocos2d-x/build/../cocos/platform/CCStdC.h \
+  /Users/congnt/Desktop/HelloWord/frameworks/cocos2d-x/build/../cocos/platform/ios/CCStdC-ios.h
